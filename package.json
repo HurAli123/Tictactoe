@@ -1,6 +1,6 @@
 {
-  "name": "TicTacToe",
-  "homepage": "https://HurAli123.github.io/Tictactoe",
+  "name": "tictactoe",
+  "homepage": "https://hurali123.github.io/Tictactoe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
