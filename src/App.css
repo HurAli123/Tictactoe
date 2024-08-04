@@ -70,7 +70,7 @@
   margin: auto;
   font-size: 2em;
   transition: all 0.2s ease-out;
-
+  float:right;
   background: rgba(255, 255, 255, 0.05);
   /* box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); */
   /* backdrop-filter: blur(9.9p x); */
